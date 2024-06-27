@@ -1,8 +1,10 @@
 
 ### Olá! Eu sou Raul Oliveira 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulFOliveira&hide=issues&theme=outrun)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulFOliveira&layout=donut&theme=outrun)
+<div>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=RaulFOliveira&hide=issues&theme=outrun" alt=""></img>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulFOliveira&layout=donut&theme=outrun" alt=""></img>
+</div>
 
 ## Tecnologias que eu utilizo
 
